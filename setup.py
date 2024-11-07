@@ -9,7 +9,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "seedr-download=seedr_downloader.app:main",
+            "seedr=seedr_downloader.app:main",
         ],
     },
     author="Andrew Phillip Thomasson",
