@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: seedr_downloader
+Version: 0.2.0
+Summary: A terminal-based tool for downloading torrents using Seedr, with credential management and token support.
+Home-page: https://github.com/yourusername/seedr_downloader
+Author: Andrew Phillip Thomasson
+Author-email: drew.thomasson100@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: seedrcc
+
+# easy_seedr_downloader
+easy downloader app for seedr

@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+seedr_downloader/__init__.py
+seedr_downloader/app.py
+seedr_downloader.egg-info/PKG-INFO
+seedr_downloader.egg-info/SOURCES.txt
+seedr_downloader.egg-info/dependency_links.txt
+seedr_downloader.egg-info/entry_points.txt
+seedr_downloader.egg-info/requires.txt
+seedr_downloader.egg-info/top_level.txt

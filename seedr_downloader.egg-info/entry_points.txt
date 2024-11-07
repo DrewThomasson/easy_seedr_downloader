@@ -1,0 +1,2 @@
+[console_scripts]
+seedr = seedr_downloader.app:main
